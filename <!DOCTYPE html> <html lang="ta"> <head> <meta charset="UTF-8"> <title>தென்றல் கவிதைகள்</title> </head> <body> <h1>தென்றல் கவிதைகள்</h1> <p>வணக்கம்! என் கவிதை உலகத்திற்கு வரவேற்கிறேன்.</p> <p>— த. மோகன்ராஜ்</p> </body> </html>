@@ -1,0 +1,60 @@
+index.html <!DOCTYPE html>
+
+<html lang="ta">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>தென்றல் கவிதைகள்</title>
+  <style>
+    body {
+      margin: 0;
+      font-family: sans-serif;
+      background: #f5fff8;
+      color: #244333;
+      text-align: center;
+    }
+    header {
+      background: #176b4d;
+      color: white;
+      padding: 28px 12px;
+    }
+    h1 { margin: 0; }
+    main {
+      max-width: 600px;
+      margin: 24px auto;
+      padding: 16px;
+    }
+    .poem {
+      background: white;
+      padding: 22px;
+      border-radius: 12px;
+      box-shadow: 0 2px 8px #0001;
+      line-height: 2;
+    }
+    footer {
+      padding: 20px;
+      color: #557263;
+    }
+  </style>
+</head>
+<body>
+  <header>
+    <h1>🌿 தென்றல் கவிதைகள் 🌿</h1>
+    <p>தமிழ் கவிதைகளின் இனிய உலகம்</p>
+  </header>
+  <main>
+    <h2>என் கவிதைகள்</h2>
+    <section class="poem">
+      <h3>தனிமை</h3>
+      இந்த தனிமை யாருக்கும் புதிதல்ல<br>
+      கண்டு வியக்கவும் அவசியமில்லை<br>
+      கருவறையில் தனிமை பழகியவனுக்கு<br>
+      இவ்வுலகில் தனிமை பழக<br>
+      என்றும் தயங்கியதில்லை<br>
+      வாழ அஞ்சுவதுமில்லை
+      <p>— த. மோகன்ராஜ்</p>
+    </section>
+  </main>
+  <footer>© த. மோகன்ராஜ் | தென்றல் கவிதைகள்</footer>
+</body>
+</html>
